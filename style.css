@@ -24,5 +24,36 @@ nav{
   .hero {
     text-align: center;
     padding: 50px 20px;
-    background-color: #e0e0e0;}
-    
+    background-color: #e0e0e0;
+  }
+
+    .contact-btn {
+      padding: 10px 20px;
+      background-color: #000;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+    }
+
+      #hero h2 {
+        
+        
+        font-weight: bolder;
+        text-align: center;
+    }
+
+    #hero p {
+      font-size: 16px;
+      margin: 20px 0;
+      text-align: center;
+      font-weight: regular ;
+  }
+.hero-bg{
+  background-image: url("assets/Hero-bg.png");
+  text-align: center;
+  font-size:24px;
+  width: 1440px;
+  height: 480px;
+  
+ 
+}
