@@ -57,3 +57,47 @@ nav{
   
  
 }
+
+.why-webdev {
+  text-align: center;
+  background-color: 0D1321;
+}
+
+
+
+.why-webdev h1 {
+  font-size: 32px;
+  font-weight:ExtraBold;
+  padding-top: 50px;
+  
+}
+  
+
+.why-webdev p{
+  font-size:16px;
+  text-align: center;
+    color: #666;
+    max-width: 6000px;
+    gap:none;
+  
+}
+.reason {
+  margin-bottom: 30px;
+}
+
+.reason h3 {
+  font-size: 20px;
+}
+
+.reason p {
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+.reason button {
+  padding: 10px 20px;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
